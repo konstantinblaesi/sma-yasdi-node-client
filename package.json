@@ -1,0 +1,21 @@
+{
+  "name": "sma-yasdi-node-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/watch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/storeToInfluxDB.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-units": "^2.3.4",
+    "flatbuffers": "^1.11.0",
+    "influx": "^5.1.1",
+    "moment": "^2.24.0",
+    "mqtt": "^2.18.8",
+    "ts-node": "^7.0.1"
+  }
+}
