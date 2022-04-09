@@ -14,7 +14,7 @@
     "convert-units": "^2.3.4",
     "flatbuffers": "^1.11.0",
     "influx": "^5.1.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mqtt": "^2.18.8",
     "ts-node": "^7.0.1"
   }
